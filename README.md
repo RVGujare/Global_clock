@@ -1,16 +1,43 @@
-# rutuja
+# TimeScape
 
-A new Flutter project.
+Welcome to the TimeScape! This app allows users to select different countries and view their respective times, accompanied by a dynamically changing background image based on the time of day: displaying a day image from 6 AM to 6 PM and a night image otherwise.
 
-## Getting Started
+## Features:
+***Time Display:*** Choose any country from the provided list and view the current time in that location.<br>
 
-This project is a starting point for a Flutter application.
+***Dynamic Backgrounds:*** The app automatically changes the background image according to the time of day in the selected country.
 
-A few resources to get you started if this is your first Flutter project:
+***User-Friendly Interface:*** Simple and intuitive user interface for easy navigation.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Requirements**
+- Flutter SDK installed
+- Flutter compatible IDE (e.g., Android Studio, VSCode)
+- Emulator or physical device for testing
+
+**To run the app locally, follow these steps:**
+
+**1. Clone the repository:**
+
+     git clone https://github.com/your-username/time-zone-display-app.git
+
+**2. Navigate to the project directory:**
+
+     cd time-zone-display-app
+
+**3. Install dependencies:**
+
+     # Assuming you're using npm
+    
+     npm install
+**4. Run the app:**
+
+     flutter run
+
+## Usage:
+- Open the app in your preferred web browser.
+- Select a country from the provided list.
+- The app will display the current time in the selected country.
+- The background image will dynamically change based on the time of day in that location (daytime image between 6am and 6pm, and nighttime image otherwise).
+
