@@ -28,9 +28,7 @@ Welcome to the TimeScape! This app allows users to select different countries an
 
 **3. Install dependencies:**
 
-     # Assuming you're using npm
-    
-     npm install
+     flutter pub get
      
 **4. Run the app:**
 
