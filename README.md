@@ -20,17 +20,18 @@ Welcome to the TimeScape! This app allows users to select different countries an
 
 **1. Clone the repository:**
 
-     git clone https://github.com/your-username/time-zone-display-app.git
+     git clone https://github.com/RVGujare/TimeScape.git
 
 **2. Navigate to the project directory:**
 
-     cd time-zone-display-app
+     cd TimeScape
 
 **3. Install dependencies:**
 
      # Assuming you're using npm
     
      npm install
+     
 **4. Run the app:**
 
      flutter run
